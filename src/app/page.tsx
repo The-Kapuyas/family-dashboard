@@ -12,6 +12,10 @@ export default function Home() {
         <GroceryList />
         <CreativePicker />
       </main>
+
+      <footer className="text-center text-gray-400 text-sm py-6">
+        Made with love by The Kapuyas
+      </footer>
     </div>
   );
 }
